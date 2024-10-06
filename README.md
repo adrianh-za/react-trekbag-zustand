@@ -1,8 +1,5 @@
-# React + Vite
+Created the  **Trekbag** app as part of the **Professional React & Next.js** on [ByteGrad](https://bytegrad.com/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*This version of the app uses the [Zustand](https://github.com/pmndrs/zustand) state management library. *
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/84633b48-07a0-4084-9b6c-c9639ebc1c78)
